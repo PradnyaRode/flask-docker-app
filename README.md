@@ -14,7 +14,7 @@ This project was developed as part of a technical assignment to demonstrate fami
 
 🔧 Technologies 
 Used
-🐍 Python 3.6.9
+🐍 Python 3.9-slim
 🌐 Flask
 🐳 Docker
 🧱 Docker Compose

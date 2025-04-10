@@ -30,7 +30,6 @@ bash
 Copy code
 docker build -t flask-docker-app .
 docker run -d -p 5001:5000 flask-docker-app
-Now open your browser at 👉 http://localhost:5001
 
 ⚙️ Using Docker Compose
 bash
